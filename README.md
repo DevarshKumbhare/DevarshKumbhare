@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Fullstack projects**
 
-- 💬 Ask me about **JavaScript, Node.js, Express.js, PostgreSQL, Python, C++**
+- 💬 Ask me about **JavaScript, Node.js, Express.js, Springboot, PostgreSQL, Python, C, C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

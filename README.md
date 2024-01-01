@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devarsh Kumbhare</h1>
-<h3 align="center">Passionate in Student and Developer, Interested in solving probelems and contributing to products/tools that do so.</h3>
+<h3 align="center">Passionate in Student and Developer, Interested in solving problems and contributing to products/tools that do so.</h3>
 
 - 🌱 I’m currently learning **React and MERN stack.**
 

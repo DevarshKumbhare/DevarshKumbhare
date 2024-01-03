@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Devarsh Kumbhare</h1>
 <h3 align="center">Passionate in Student and Developer, Interested in solving problems and contributing to products/tools that do so.</h3>
 
-- 🌱 I’m currently learning **React and MERN stack.**
+- 🌱 I’m currently learning **React and Next**
 
 - 👯 I’m looking to collaborate on **Fullstack projects**
 
-- 💬 Ask me about **JavaScript, Node.js, Express.js, Springboot, PostgreSQL, Python, C, C++**
+- 💬 Ask me about **JavaScript, React.js, Next.js, Node.js, Express.js, Springboot, PostgreSQL, MongoDB, Python, C, C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

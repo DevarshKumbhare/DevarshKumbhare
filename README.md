@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Devarsh Kumbhare</h1>
-<h3 align="center">Passionate in Student and Developer, Interested in solving problems and contributing to products/tools that do so.</h3>
+<h3 align="center">Passionate in Student at BITS Pilani and Developer, Interested in solving problems and contributing to products/tools that do so.</h3>
 
-- 🌱 I’m currently learning **React and Next**
+- 🌱 I’m currently learning **Flask**
 
 - 👯 I’m looking to collaborate on **Fullstack projects**
 
-- 💬 Ask me about **JavaScript, React.js, Next.js, Node.js, Express.js, Springboot, PostgreSQL, MongoDB, Python, C, C++**
+- 💬 Ask me about **C++, Python, Flask, JavaScript, Express.js, Springboot, PostgreSQL, MongoDB, C**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/devarsh03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devarsh03" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/devarsh-kumbhare-14a8a925a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devarsh-kumbhare-14a8a925a" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/devarsh.dk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="devarsh.dk" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/devarshdk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devarshdk" height="30" width="40" /></a>
 </p>
 

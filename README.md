@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Devarsh Kumbhare</h1>
 <h3 align="center">Passionate in Student at BITS Pilani and Developer, Interested in solving problems and contributing to products/tools that do so.</h3>
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **Java Development**
 
 - 👯 I’m looking to collaborate on **Fullstack projects**
 
-- 💬 Ask me about **C++, Python, Flask, JavaScript, Express.js, Springboot, PostgreSQL, MongoDB, C**
+- 💬 Ask me about **C++, Python, Flask, JavaScript, Express.js, Springboot, PostgreSQL, MongoDB, C, Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
